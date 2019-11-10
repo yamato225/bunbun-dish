@@ -1,10 +1,11 @@
 ---
 layout: default
-img: dog.png
+img: v3.gif
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: BunBun Cutlery
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+CutleryはRaspberry PiをSafariやChromeなどのブラウザから操作可能にする画面です。<br />
+Raspberry Pi標準のOSであるRaspbianにインストールすることで利用できます。（DishにはCutleryをインストールしたMicroSDが付属しています。）<br />
+<br />
+アプリを追加することで、様々な機能が利用可能になります。
